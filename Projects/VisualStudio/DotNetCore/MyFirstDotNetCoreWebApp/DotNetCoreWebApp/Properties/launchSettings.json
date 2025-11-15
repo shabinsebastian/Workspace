@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "http": {
+    "MyFirstDotNetCoreWebApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
