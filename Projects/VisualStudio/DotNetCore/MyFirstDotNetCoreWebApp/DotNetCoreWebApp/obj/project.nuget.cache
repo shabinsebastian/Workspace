@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMRBNBFzSIE=",
+  "success": true,
+  "projectFilePath": "C:\\Shabin\\Workspace\\Projects\\VisualStudio\\DotNetCore\\MyFirstDotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shabi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
