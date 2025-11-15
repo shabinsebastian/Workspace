@@ -12,7 +12,7 @@ app.Use(async (context, next) =>
     Console.WriteLine($"Response: {context.Response.StatusCode}");
 });
 
-Terminal middleware
+//Terminal middleware
 app.Run(async context =>
 {   
     await context.Response.WriteAsync("Hello, Middleware!");
