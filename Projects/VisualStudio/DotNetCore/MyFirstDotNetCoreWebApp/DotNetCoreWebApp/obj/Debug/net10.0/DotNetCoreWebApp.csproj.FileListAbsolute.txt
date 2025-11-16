@@ -28,3 +28,5 @@ C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\Dot
 C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\net10.0\DotNetCoreWebApp.pdb
 C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\net10.0\DotNetCoreWebApp.genruntimeconfig.cache
 C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\net10.0\ref\DotNetCoreWebApp.dll
+C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\net10.0\DotNetCoreWebApp.staticwebassets.runtime.json
+C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\net10.0\compressed\es3q8gl7ei-{0}-cs48q92hn6-cs48q92hn6.gz
