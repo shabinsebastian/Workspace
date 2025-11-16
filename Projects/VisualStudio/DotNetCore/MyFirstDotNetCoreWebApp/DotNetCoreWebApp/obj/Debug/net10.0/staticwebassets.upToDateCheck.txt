@@ -1,0 +1,2 @@
+wwwroot\home.html
+C:\Shabin\Workspace\Projects\VisualStudio\DotNetCore\MyFirstDotNetCoreWebApp\DotNetCoreWebApp\wwwroot\home.html
